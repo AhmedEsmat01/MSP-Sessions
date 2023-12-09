@@ -1,7 +1,7 @@
 # MSP-Sessions
 This Repository will contain Code for all Sessions in MSP Web Committee
 
-![MSP Logo](msp-logo.jpg)
+<img src="msp-logo.jpg" alt="MSP Logo" width="200px" height="200px" style="border-radius: 50%;">
 
 Welcome to the MSP Tech Club Web Development Committee's GitHub repository! Here, you will find all the code sessions, resources, and projects related to web development.
 
